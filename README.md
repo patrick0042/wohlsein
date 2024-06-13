@@ -1,2 +1,1 @@
-# wohlsein
-gesünder und zufriedener leben können
+Gesünder und zufriedener leben können soll das Ziel sein.
